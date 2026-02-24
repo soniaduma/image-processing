@@ -2,7 +2,7 @@
 
 A modular C application that combines:
 
-- L-System generation
+- [L-System generation](https://en.wikipedia.org/wiki/L-system)
 - Turtle graphics rendering
 - Custom image processing
 - Font parsing and text rendering
