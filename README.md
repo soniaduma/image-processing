@@ -108,8 +108,6 @@ are detected within a pixel’s bit pattern, an error message is displayed indic
 
 <img width="992" height="1021" alt="Screenshot 2026-03-22 125734" src="https://github.com/user-attachments/assets/4b99333c-7a0b-4341-8a01-8c41f8306cad" />
 
-<img width="780" height="742" alt="Screenshot 2026-03-22 125923" src="https://github.com/user-attachments/assets/16dff4e4-2333-490f-9c0f-5407dddbfb39" />
-
 <img width="1558" height="1153" alt="Screenshot 2026-03-22 125403" src="https://github.com/user-attachments/assets/1259a441-93a0-41de-9738-cda826472326" />
 
 
